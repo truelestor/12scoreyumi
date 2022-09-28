@@ -1,0 +1,18 @@
+{
+  "name": "12scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "checkyourcredit.us ◄ Get Your FREE Credit Score checkyourcredit.us, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "checkyourcredit.us",
+    "what credit score is needed for renting an apartment",
+    "credit score 677",
+    "credit score quick fix",
+    "when credit score goes down"
+  ],
+  "repository": "https://github.com/truelestor/12scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
